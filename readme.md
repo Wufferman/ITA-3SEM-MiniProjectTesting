@@ -1,3 +1,4 @@
+# ITA-3SEM-MiniProjectTesting
 # Ordinationsprojektet
 
 Projektet indeholder en prototype på et ordinationssystem, der kan bruges til at ordinere medicin til borgere. 
@@ -33,4 +34,3 @@ $ dotnet run --project ordination-api & dotnet run --project ordination-blazor &
 ```
 
 Nu burde du kunne benytte Blazor-app'en på https://localhost:7428 
-# ITA-3SEM-MiniProjectTesting
