@@ -1,3 +1,4 @@
+Anden udgave: https://github.com/Orluff/Miniprojekt-Ordinationer
 # ITA-3SEM-MiniProjectTesting
 # Ordinationsprojektet
 
